@@ -1,0 +1,16 @@
+*.jpg
+datasets/test_images/*.jpg
+datasets/train_images/*.jpg
+datasets/val_images/*.jpg
+
+0_output_Backup/
+
+output/
+output_augmented_eos0.2/
+inference_results/vis/
+experiment-*
+*.tmp
+*.pkl
+raw_datasets/
+# models 폴더 내 .pth 파일 무시
+models/*.pth

@@ -1,0 +1,7 @@
+# ninja log v5
+0	4387	1738156947271233180	/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/src/cpu/ms_deform_attn_cpu.o	88635aa2164080dc
+1	14251	1738156957135822391	/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/src/vision.o	d0e6dad88330dc42
+1	15655	1738156958531905773	/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/src/cuda/ms_deform_attn_cuda.o	dc0b0d50441416ca
+6	3493	1738165635083345561	/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/src/cpu/ms_deform_attn_cpu.o	1b85a28151c9e960
+7	10490	1738165642083800021	/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/src/vision.o	b50005cca9b0d827
+6	12628	1738165644211938069	/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/home/user/Desktop/Vision-team/KBS/PCB_Deformable-DETR/models/ops/src/cuda/ms_deform_attn_cuda.o	bfebdb1a04f8abdf
